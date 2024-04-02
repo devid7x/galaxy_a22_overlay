@@ -1,5 +1,5 @@
-# galaxy_a22_overlay
-A overlay for the Galaxy A22
+# Galaxy A22 4G overlay
+A GSI overlay for the Galaxy A22
 
 # Install guide
 Download the zip, install the module via Magisk.
@@ -16,4 +16,4 @@ Download the zip, install the module via Magisk.
 Google Drive: https://drive.google.com/file/d/1Czi-59UuyfXD8Fi-anKAylldBCwoPMHm/view?usp=sharing, you can download via GitHuB too
 
 # How to build for myself?
-Follow https://github.com/phhusson/treble_experimentations/wiki/How-to-create-an-overlay%3F and download A22, A22 systemui folders and do your modifications in them.
+Follow https://github.com/phhusson/treble_experimentations/wiki/How-to-create-an-overlay%3F and download the source code, move the A22 folders to vendor_hardware_overlay/Samsung, do your modifications, and build the APKs
