@@ -10,7 +10,7 @@ Download the zip, install the module via Magisk.
 - Statusbar padding
 
 # Broken stuff:
-- Auto brightness (cannot fix)
+- Auto brightness (vendor issue I think, going to try to fix it)
 
 # How to report bugs?
 Report via the issues category.
