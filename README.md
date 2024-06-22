@@ -1,4 +1,4 @@
-# Galaxy A22 4G overlay
+# Overlay testing versions for Galaxy A22 4G 
 A GSI overlay for the Galaxy A22
 
 # Install guide
