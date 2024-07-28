@@ -2,5 +2,5 @@
 <resources>
     <dimen name="physical_power_button_center_screen_location_y">656.0px</dimen>
     <dimen name="status_bar_padding_end">1.0dip</dimen>
-    <dimen name="status_bar_padding_start">16.0dip</dimen>
+    <dimen name="status_bar_padding_start">14.0dip</dimen>
 </resources>
