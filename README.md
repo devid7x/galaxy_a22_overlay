@@ -3,7 +3,7 @@ A GSI overlay for the Galaxy A22
 
 # Install guide
 Download the zip, install the module via Magisk.
-**DO NOT TURN ON SULIST AS THIS BREAKS THE GSI FOR SOME REASON** (kitsune mask/magisk delta only)
+
 
 # What issues does this fix?
 - AOD
@@ -11,6 +11,7 @@ Download the zip, install the module via Magisk.
 
 # Broken stuff:
 - Auto brightness (vendor issue I think, going to try to fix it)
+- Using the module with SuList breaks everything and causes the phone to be unstable
 
 # How to report bugs?
 Report via the issues category.
